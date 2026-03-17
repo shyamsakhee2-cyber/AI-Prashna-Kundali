@@ -1,0 +1,433 @@
+AI_Prashna_Kundali 
+{
+  "metadata": {
+    "visual": {
+      "presentation": {
+        "themes": {
+          "4f52f853-4167-4da4-a660-d6539f466e76": {
+            "template": "basic",
+            "templateAdditionalOptions": {},
+            "palette": {
+              "primary": {
+                "0": "#000000",
+                "5": "#000644",
+                "10": "#000d60",
+                "15": "#0b196e",
+                "20": "#1a2678",
+                "25": "#263384",
+                "30": "#333f90",
+                "35": "#3f4b9c",
+                "40": "#4b57a9",
+                "50": "#6570c4",
+                "60": "#7e8ae0",
+                "70": "#99a5fd",
+                "80": "#bcc3ff",
+                "90": "#dfe0ff",
+                "95": "#f0efff",
+                "98": "#fbf8ff",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "secondary": {
+                "0": "#000000",
+                "5": "#0d1021",
+                "10": "#181a2c",
+                "15": "#222537",
+                "20": "#2d2f42",
+                "25": "#383a4d",
+                "30": "#434559",
+                "35": "#4f5165",
+                "40": "#5b5d72",
+                "50": "#74768b",
+                "60": "#8e8fa6",
+                "70": "#a8a9c1",
+                "80": "#c4c5dd",
+                "90": "#e0e1f9",
+                "95": "#f0efff",
+                "98": "#fbf8ff",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "tertiary": "",
+              "error": {
+                "0": "#000000",
+                "5": "#2d0001",
+                "10": "#410002",
+                "15": "#540003",
+                "20": "#690005",
+                "25": "#7e0007",
+                "30": "#93000a",
+                "35": "#a80710",
+                "40": "#ba1a1a",
+                "50": "#de3730",
+                "60": "#ff5449",
+                "70": "#ff897d",
+                "80": "#ffb4ab",
+                "90": "#ffdad6",
+                "95": "#ffedea",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutral": {
+                "0": "#000000",
+                "5": "#111114",
+                "10": "#1b1b1f",
+                "15": "#262529",
+                "20": "#303034",
+                "25": "#3b3b3f",
+                "30": "#47464a",
+                "35": "#535256",
+                "40": "#5f5e62",
+                "50": "#78767a",
+                "60": "#929094",
+                "70": "#acaaaf",
+                "80": "#c8c5ca",
+                "90": "#e4e1e6",
+                "95": "#f3f0f4",
+                "98": "#fbf8fd",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutralVariant": {
+                "0": "#000000",
+                "5": "#101018",
+                "10": "#1a1b23",
+                "15": "#25252d",
+                "20": "#2f3038",
+                "25": "#3a3b43",
+                "30": "#46464f",
+                "35": "#52525b",
+                "40": "#5e5e67",
+                "50": "#777680",
+                "60": "#90909a",
+                "70": "#abaab4",
+                "80": "#c7c5d0",
+                "90": "#e3e1ec",
+                "95": "#f1effa",
+                "98": "#fbf8ff",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              }
+            },
+            "themeColors": {
+              "primaryColor": "",
+              "secondaryColor": "",
+              "backgroundColor": "",
+              "primaryTextColor": "",
+              "textColor": ""
+            },
+            "splashScreen": {
+              "storedData": {
+                "handle": "drive:/1m3iu0YmVYht3FYFj1J5ddOHaxvm70LOe",
+                "mimeType": "image/png",
+                "contentLength": 1815488
+              }
+            }
+          },
+          "b1185832-9710-401d-bb89-7ebe35bf9c21": {
+            "template": "basic",
+            "templateAdditionalOptions": {},
+            "palette": {
+              "primary": {
+                "0": "#000000",
+                "5": "#2c0004",
+                "10": "#410008",
+                "15": "#54000d",
+                "20": "#680013",
+                "25": "#7d0019",
+                "30": "#92001f",
+                "35": "#a80025",
+                "40": "#bf022b",
+                "50": "#e32b41",
+                "60": "#ff525d",
+                "70": "#ff8889",
+                "80": "#ffb3b2",
+                "90": "#ffdad9",
+                "95": "#ffedec",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "secondary": {
+                "0": "#000000",
+                "5": "#200a0b",
+                "10": "#2c1515",
+                "15": "#381f1f",
+                "20": "#442929",
+                "25": "#503434",
+                "30": "#5d3f3f",
+                "35": "#6a4a4a",
+                "40": "#775656",
+                "50": "#916e6e",
+                "60": "#ad8887",
+                "70": "#c9a2a1",
+                "80": "#e6bdbb",
+                "90": "#ffdad9",
+                "95": "#ffedec",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "tertiary": "",
+              "error": {
+                "0": "#000000",
+                "5": "#2d0001",
+                "10": "#410002",
+                "15": "#540003",
+                "20": "#690005",
+                "25": "#7e0007",
+                "30": "#93000a",
+                "35": "#a80710",
+                "40": "#ba1a1a",
+                "50": "#de3730",
+                "60": "#ff5449",
+                "70": "#ff897d",
+                "80": "#ffb4ab",
+                "90": "#ffdad6",
+                "95": "#ffedea",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutral": {
+                "0": "#000000",
+                "5": "#15100f",
+                "10": "#201a1a",
+                "15": "#2b2424",
+                "20": "#362f2e",
+                "25": "#413a39",
+                "30": "#4d4544",
+                "35": "#595050",
+                "40": "#655c5c",
+                "50": "#7f7574",
+                "60": "#998e8e",
+                "70": "#b4a9a8",
+                "80": "#d0c4c3",
+                "90": "#ede0df",
+                "95": "#fbeeed",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutralVariant": {
+                "0": "#000000",
+                "5": "#190e0e",
+                "10": "#251918",
+                "15": "#302322",
+                "20": "#3b2d2d",
+                "25": "#463837",
+                "30": "#524343",
+                "35": "#5f4f4e",
+                "40": "#6b5a5a",
+                "50": "#857372",
+                "60": "#a08c8b",
+                "70": "#bba6a6",
+                "80": "#d7c1c0",
+                "90": "#f4dddc",
+                "95": "#ffedec",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              }
+            },
+            "themeColors": {
+              "primaryColor": "",
+              "secondaryColor": "",
+              "backgroundColor": "",
+              "primaryTextColor": "",
+              "textColor": ""
+            },
+            "splashScreen": {
+              "storedData": {
+                "handle": "drive:/1EHHKYz5IVhrpilEZLCFo_hLGSdXqy7Lu",
+                "mimeType": "image/jpeg",
+                "contentLength": 563420
+              }
+            }
+          }
+        },
+        "theme": "b1185832-9710-401d-bb89-7ebe35bf9c21"
+      }
+    },
+    "intent": "वेस्ट मल्टीलंगुयल AI प्रश्न कुंडली वेब ऐप तैयार करें ",
+    "revision_intents": [
+      "इस वेब ऐप में प्रश्न कुंडली चक्र, ग्रह स्थिति अंश के साथ जोड़ें एवं फलादेश को और विस्तृत किजिए ",
+      "Error को फिक्स करें ",
+      "\"तुम एक विशेषज्ञ भाषाविद् और वेब कंटेंट ट्रांसलेटर हो। तुम्हारा काम यूजर के इनपुट को अंग्रेजी (English), हिन्दी (Hindi) और बंगाली (Bengali) में सटीक रूप से प्रोसेस करना है।\nतुम्हें निम्नलिखित नियमों का पालन करना अनिवार्य है:\nलिपि की शुद्धता (Script Accuracy): हिन्दी के लिए हमेशा देवनागरी और बंगाली के लिए बंगाली स्क्रिप्ट का ही उपयोग करें। कभी भी रोमन लिपि (Hinglish/Benglish) में जवाब न दें।\nसांस्कृतिक संदर्भ (Context Awareness): केवल शब्दों का अनुवाद न करें, बल्कि यह सुनिश्चित करें कि वाक्य का अर्थ उस भाषा की संस्कृति के अनुसार सही हो।",
+      "हमेशा डेटा को व्यवस्थित तरीके से (जैसे JSON फॉर्मेट) प्रदान करें ताकि वेब ऐप उसे आसानी से रेंडर कर सके।",
+      "\"आप एक 'मास्टर वैदिक ज्योतिषी' और 'प्रश्न शास्त्र' (Prashna Shastra) के विशेषज्ञ हैं। आपका कार्य उपयोगकर्ता द्वारा पूछे गए प्रश्न के समय और स्थान के आधार पर एक सटीक प्रश्न कुंडली का विश्लेषण करना और विस्तृत फलादेश प्रदान करना है।\nकार्यप्रणाली (Workflow):\nइनपुट डेटा: आपको [प्रश्न], [दिनांक], [समय] और [स्थान] प्राप्त होगा।\nकुंडली निर्माण: गणना इंजन जुड़ा डेटा लें (वर्तमान समय के अनुसार ग्रहों की स्थिति की जांच करें)। \nप्राथमिकता: लग्न (Ascendant), लग्नेश, और चंद्रमा की स्थिति को प्राथमिकता दें।\nविश्लेषण के मानक:\nकार्येश (Karyesh): प्रश्न से संबंधित भाव के स्वामी और लग्नेश के संबंध की जांच करें।\nचंद्रमा: चंद्रमा की स्थिति और उसके नक्षत्र का विश्लेषण करें (क्योंकि चंद्रमा मन और प्रश्न की सफलता का कारक है)।\nदृष्टि और योग: ग्रहों की दृष्टि, युति और 'इत्थशाल योग' या 'ईशराफ योग' (Tajika Shastra) का उपयोग करें।\nआउटपुट फॉर्मेट (अनिवार्य):\nकुंडली विवरण: लग्न राशि और भावों में बैठे ग्रहों की सूची (चक्र)।\nग्रह स्थिति तालिका: ग्रह, राशि, अंश (Degrees), और नक्षत्र।\nमुख्य विश्लेषण: प्रश्न की सफलता की संभावना (हाँ/नहीं/विलंब)।\nविस्तृत फलादेश: ज्योतिषीय तर्कों के साथ विस्तृत विवरण।\nउपाय: यदि नकारात्मक परिणाम हैं, तो सरल ज्योतिषीय उपाय।",
+      "You are an expert Full-Stack Developer and Vedic Astrology Specialist. Your goal is to build/optimize a \"Multilingual AI Prashna Kundali Web App\" that is technically robust, astrologically accurate, and user-friendly.\n1. Core Logic & Accuracy (জ্যোতিষীয় নির্ভুলতা)\nPrecision Calculations: Ensure the app uses high-precision libraries (like Swiss Ephemeris) for calculating planetary positions based on the user's current location (Latitude/Longitude) and exact time of query."
+    ],
+    "raw_intent": "वेस्ट मल्टीलंगुयल AI प्रश्न कुंडली वेब ऐप तैयार करें ",
+    "parameters": {}
+  },
+  "url": "drive:/1JCMt5m8Xf0Hv46UzKnAVGwCDeWfSaRjQ",
+  "assets": {
+    "6075ef2c-50be-439b-bc36-77a743ce6aa7": {
+      "data": [
+        {
+          "role": "user",
+          "parts": [
+            {
+              "storedData": {
+                "handle": "https://notebooklm.google.com/notebook/dbf4589b-ecd0-40e0-84bd-7bf6f10b84d3",
+                "mimeType": "application/x-notebooklm"
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "title": "AI-Driven Vedic Astrology and Multilingual App Development Framework",
+        "type": "content",
+        "visual": {
+          "x": 80,
+          "y": 40
+        },
+        "managed": false,
+        "subType": "notebooklm"
+      }
+    }
+  },
+  "title": "AI Prashna Kundali ",
+  "description": "Generate multilingual horoscopes and astrological insights based on birth details.",
+  "version": "0.0.1",
+  "nodes": [
+    {
+      "id": "node_step_location_details",
+      "metadata": {
+        "title": "Retrieve Precise Location Information",
+        "visual": {
+          "x": 700,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Use the Google Maps search API to find the exact location details, including latitude and longitude, for the user-provided location string. This is crucial for high-precision astrological calculations. The query should be the user-provided location.",
+        "tags": [
+          "appcat_search_maps"
+        ]
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "1. Objective: Use the generate_text tool with search and maps grounding to find the exact geographic coordinates, including latitude and longitude, for the specified location string. This information is required for high-precision astrological calculations.\n\n2. Output Format: Provide the result as a plain text summary containing the location name, latitude, and longitude. You are done when you have successfully retrieved and displayed these coordinates. Finalize the task by calling system_objective_fulfilled.\n\n3. User Input / Context: {{\"type\":\"in\",\"path\":\"ask_user_location\",\"title\":\"Location\"}}"
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "agent"
+      }
+    },
+    {
+      "id": "node_step_python_calculation_instructions",
+      "metadata": {
+        "title": "Generate Technical Calculation Instructions",
+        "visual": {
+          "x": 1050,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Utilize the Gemini-based text generation agent to create a specific set of instructions for calculating high-precision planetary positions. These instructions will guide the subsequent python execution to use astronomical algorithms (simulating Swiss Ephemeris) based on the location details, date, and time. The output should be a clear, executable set of instructions for a Python script."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "Objective: Use the text generation capability to define high-precision astronomical algorithms and logic for calculating planetary positions similar to Swiss Ephemeris. Subsequently, generate and execute Python code to perform these calculations using the provided date, time, and location details to determine coordinates such as longitude, latitude, and distance for celestial bodies.\n\nOutput Format: Provide the generated logic instructions and the resultant planetary data produced by the Python script. Use the system_objective_fulfilled tool once the results are displayed.\n\nUser Input / Context:\nDate: {{\"type\":\"in\",\"path\":\"ask_user_date\",\"title\":\"Date\"}}\nTime: {{\"type\":\"in\",\"path\":\"ask_user_time\",\"title\":\"Time\"}}\nLocation: {{\"type\":\"in\",\"path\":\"node_step_location_details\",\"title\":\"Retrieve Precise Location Information\"}}"
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "agent"
+      }
+    },
+    {
+      "id": "node_step_calculate_planetary_and_house_data",
+      "metadata": {
+        "title": "Execute High Precision Planetary Calculations",
+        "visual": {
+          "x": 1400,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Run the high-precision calculations using the generated python instructions in a sandboxed environment. This step will produce a structured data set of planetary positions (Rashi, Nakshatra, degrees) and house cusps for the Prashna Kundali. The instruction from the previous step will detail what the Python code should do."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "Objective: Execute high-precision calculations by generating and running Python code based on the provided instructions. The goal is to produce a structured data set for a Prashna Kundali, specifically detailing planetary positions including Rashi, Nakshatra, and degrees, as well as house cusps.\n\nOutput Format: Provide the resulting structured data set containing the planetary positions and house cusps. Use the generate and execute code tool to perform the calculations in a sandboxed environment. You are done when you have successfully executed the code and returned the structured data using the system objective fulfilled tool.\n\nUser Input / Context: {{\"type\":\"in\",\"path\":\"node_step_python_calculation_instructions\",\"title\":\"Generate Technical Calculation Instructions\"}}"
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "agent"
+      }
+    },
+    {
+      "id": "node_step_chart_generation_instructions",
+      "metadata": {
+        "title": "Generate Instructions For Visual Kundali Chart",
+        "visual": {
+          "x": 1750,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Use the text generation agent to translate the complex planetary data into a visual description for an AI image generator. The instruction will specify a professional North Indian style Kundali chart with clear planet placements in the houses. This output will serve as the prompt for the image generation tool."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "1. Objective: Use the text_generation_agent to convert the planetary data into a detailed visual description suitable for an image generator. The description must specify a professional North Indian style Kundali chart with clear planet placements in their respective houses. Following the text generation, use the ai_image_tool to generate the final image based on that description.\n\n2. Output Format: The final output is the generated image of the Kundali chart. Call system_objective_fulfilled once the image has been created.\n\n3. User Input / Context: {{\"type\":\"in\",\"path\":\"node_step_calculate_planetary_and_house_data\",\"title\":\"Execute High Precision Planetary Calculations\"}}"
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "agent"
+      }
+    },
+    {
+      "id": "node_step_generate_prashna_kundali_chart_image",
+      "metadata": {
+        "title": "Create Prashna Kundali Chart Image",
+        "visual": {
+          "x": 2100,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Generate the actual visual representation of the Prashna Kundali chart using the AI image tool and the provided visual instructions. The output will be an image of the astrological chart."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "Generate high-quality images based on the following descriptions.\n\nThis prompt asks for the generation of a single, highly detailed image.\n\nThe image should depict a professional North Indian style Prashna Kundali chart. The visual aesthetic should be clean, clear, and highly informative, resembling an authentic astrological diagram. The chart should be precise with well-defined houses and clear representations of planetary placements.\n\nThe specific visual details and planetary positions for the chart are provided in the following instructions:\n<input_name>chart_generation_instructions</input_name>\n\nIMPORTANT: Generate exactly one image.\n\nchart_generation_instructions: {{\"type\":\"in\",\"path\":\"node_step_chart_generation_instructions\",\"title\":\"Generate Instructions For Visual Kundali Chart\"}}"
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "agent"
+      }
+    },
+    {
+      "id": "node_step_detailed_prashna_shastra_analysis",
+      "metadata": {
+        "title": "Produce Multilingual Astrological Analysis",
+        "visual": {
+          "x": 700,
+          "y": 700,
+          "collapsed": "expanded",
+     
